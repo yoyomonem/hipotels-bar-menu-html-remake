@@ -1,5 +1,5 @@
 # Simple workflow for deploying static content to GitHub Pages
-name: Deploy Hipotels Gran Playa de Palma Bar Menu HTML Remake to Pages
+name: Deploy Hipotels Gran Playa de Palma Bar Menu HTML Remake to GitHub Pages
 
 on:
   # Runs on pushes targeting the default branch

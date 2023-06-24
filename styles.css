@@ -39,20 +39,19 @@ body {
 .item {
   display: flex;
   width: 500px;
-  height: 100px;
+  height: 25px;
   padding: 10px;
 }
 
 .name {
   margin: 0;
-  margin-bottom: 10px;
   color: rgb(2, 10, 26);
   justify-self: flex-start;
 }
 
 .price {
   margin: 0;
-  margin-left: 10px;
+  margin-left: 25px;
   color: rgb(255, 215, 0);
   justify-self: flex-end;
 }

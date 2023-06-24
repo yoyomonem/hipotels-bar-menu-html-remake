@@ -39,8 +39,7 @@ body {
 .item {
   display: flex;
   width: 500px;
-  height: 25px;
-  padding: 10px;
+  height: 10px;
 }
 
 .name {
@@ -52,7 +51,7 @@ body {
 .price {
   margin: 0;
   margin-left: 25px;
-  color: rgb(255, 215, 0);
+  color: rgb(255, 204, 0);
   justify-self: flex-end;
 }
 

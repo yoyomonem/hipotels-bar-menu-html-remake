@@ -39,7 +39,7 @@ body {
 .item {
   display: flex;
   width: 500px;
-  height: 10px;
+  height: 100px;
 }
 
 .name {

@@ -36,6 +36,22 @@ body {
   align-items: center;
 }
 
+.item {
+  display: flex;
+  width: 500px;
+  height: 10px;
+}
+
+.name {
+  color: rgb(2, 10, 26);
+  justify-self: flex-start;
+}
+
+.price {
+  color: rgb(255, 215, 0);
+  justify-self: flex-end;
+}
+
 .tile h1, .tile h2, .tile h3, .tile h4, .tile h5, .tile h6 {
   color: rgb(39, 171, 247);
 }
